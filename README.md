@@ -39,3 +39,9 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="xcode" height="96px"/> </a>
 
 <br>
+
+![mevluttuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevluttuna&show_icons=true&theme=gradient&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevluttuna&langs_count=8&layout=compact&count_private=true)](https://github.com/mevluttuna/github-readme-stats)
+
+
