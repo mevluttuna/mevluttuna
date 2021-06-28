@@ -14,7 +14,6 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="bitbucket" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bootstrap.png" alt="bootstrap" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud-functions.png" alt="cloud-functions" height="96px"/> </a> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud.png" alt="cloud" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/csharp.png" alt="csharp" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/css3.png" alt="css3" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/docket.png" alt="docker" height="96px"/> </a>
