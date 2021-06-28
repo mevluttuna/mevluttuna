@@ -1,5 +1,4 @@
-## Hey 👋, I'm M. Tuna!
-  
+## Hi! 👋, I'm M. Tuna!
 ### &nbsp; 🧐  &nbsp; More About Me:
 
 - 🔭 &nbsp; I’m currently working on React Native Apps
@@ -8,8 +7,7 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mevluttuna/)
 
-<br>
-
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/idea.gif" alt="bitbucket" /> </a> 
 ### &nbsp; 🔨  &nbsp; Languages and Tools:
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="bitbucket" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bootstrap.png" alt="bootstrap" height="96px"/> </a> 
