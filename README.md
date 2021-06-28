@@ -27,7 +27,6 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/material.png" alt="material" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/ngnix.png" alt="ngnix" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/node.png" alt="node" height="96px"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/notepad++.png" alt="notepad" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="npm" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/react-native.png" alt="react-native" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/sql.png" alt="sql" height="96px"/> </a>
