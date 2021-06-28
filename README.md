@@ -33,17 +33,17 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/material.png" alt="material" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/ngnix.png" alt="ngnix" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/node.png" alt="node" height="96px"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="npm" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/sql.png" alt="sql" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/todo.png" alt="todo" height="96px"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/use-fork.png" alt="use-fork" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vm.png" alt="vm" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/gitlab.png" alt="gitlab" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/github.png" alt="github" height="96px"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="bitbucket" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/git.png" alt="git" height="96px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="npm" height="96px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="bitbucket" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jira.png" alt="jira" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/slack.png" alt="slack" height="96px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/use-fork.png" alt="use-fork" height="96px"/> </a>
 
 <br>
 
