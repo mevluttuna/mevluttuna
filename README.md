@@ -1,6 +1,6 @@
 ## Hey 👋, I'm M. Tuna!
   
-### 🧐 More About Me:
+### &nbsp; 🧐  &nbsp; More About Me:
 
 - 🔭 &nbsp; I’m currently working on React Native Realtime Apps
 - 🌱 &nbsp; I’m currently learning never give up :)
@@ -10,7 +10,7 @@
 
 <br>
 
-### 🔨 Languages and Tools:
+### &nbsp; 🔨  &nbsp; Languages and Tools:
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="bitbucket" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bootstrap.png" alt="bootstrap" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud-functions.png" alt="cloud-functions" height="96px"/> </a> 
