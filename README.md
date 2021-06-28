@@ -2,7 +2,7 @@
   
 ### &nbsp; 🧐  &nbsp; More About Me:
 
-- 🔭 &nbsp; I’m currently working on React Native Realtime Apps
+- 🔭 &nbsp; I’m currently working on React Native Apps
 - 🌱 &nbsp; I’m currently learning never give up :)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mevluttuna?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
