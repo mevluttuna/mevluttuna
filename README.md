@@ -1,4 +1,6 @@
+
 ## Hi! 👋, I'm M. Tuna!
+
 ### &nbsp; 🧐  &nbsp; More About Me:
 
 - 🔭 &nbsp; I’m currently working on React Native Apps
@@ -9,6 +11,7 @@
 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/idea.gif" alt="bitbucket" /> </a> 
 ### &nbsp; 🔨  &nbsp; Languages and Tools:
+
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="bitbucket" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bootstrap.png" alt="bootstrap" height="96px"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud-functions.png" alt="cloud-functions" height="96px"/> </a> 
@@ -37,8 +40,11 @@
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevluttuna&theme=light)](https://git.io/streak-stats)
 ![mevluttuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevluttuna&show_icons=true&theme=gradient&count_private=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevluttuna&langs_count=8&layout=compact&count_private=true&card_width=445)](https://github.com/mevluttuna/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevluttuna&langs_count=8&layout=compact&count_private=true)](https://github.com/mevluttuna/github-readme-stats)
+
 
 
