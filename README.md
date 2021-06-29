@@ -1,5 +1,5 @@
 
-## Hi! 👋, I'm M. Tuna!
+## Hi! I'm M. Tuna!
 
 ### &nbsp; 🧐  &nbsp; More About Me:
 
