@@ -1,7 +1,9 @@
 
-## Hi! I'm M. Tuna!
+# Hi! I'm M. Tuna!
 
-### &nbsp; 🧐  &nbsp; More About Me:
+<br />
+
+## &nbsp; 🧐  &nbsp; More About Me:
 
 - 🔭 &nbsp; I’m currently working on React Native Apps
 - 🌱 &nbsp; I’m currently learning never give up :)
@@ -9,7 +11,9 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mevluttuna/)
 
-### &nbsp; 🔨  &nbsp; Languages and Tools:
+<br />
+
+## &nbsp; 🔨  &nbsp; Languages and Tools:
 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="javascript" height="96px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jetbrains.png" alt="jetbrains" height="96px"/> </a>
@@ -45,6 +49,9 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/use-fork.png" alt="use-fork" height="96px"/> </a>
 
 <br>
+
+
+<a href="" target="_blank"> <img src="https://studio.code.org/v3/assets/YZgyDCNtXUCnTHpaSpxSxwXFTrJPL_qD1aqaXaAwfEQ/f71076b223b34baaaba5d5f100f04198.gif" width="480" alt="mtuna.dev"/> </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevluttuna&theme=light)](https://git.io/streak-stats)
 ![mevluttuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevluttuna&show_icons=true&theme=gradient&count_private=true)
