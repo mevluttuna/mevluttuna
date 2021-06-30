@@ -9,8 +9,6 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mevluttuna/)
 
-<a href="" target="_blank"> <img src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif" alt="mtuna.dev" width="100%" /> </a> 
-
 ### &nbsp; 🔨  &nbsp; Languages and Tools:
 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="javascript" height="96px"/> </a>
