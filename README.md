@@ -51,7 +51,7 @@
 <br>
 
 
-<a href="" target="_blank"> <img src="https://studio.code.org/v3/assets/YZgyDCNtXUCnTHpaSpxSxwXFTrJPL_qD1aqaXaAwfEQ/f71076b223b34baaaba5d5f100f04198.gif" width="480" alt="mtuna.dev"/> </a>
+<a href="" target="_blank"> <img src="https://www.adveyer.com/wp-content/uploads/2020/05/5083e0a2a7dcaae07c142e8b87036a27.gif" width="495" /> </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevluttuna&theme=light)](https://git.io/streak-stats)
 ![mevluttuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevluttuna&show_icons=true&theme=gradient&count_private=true)
