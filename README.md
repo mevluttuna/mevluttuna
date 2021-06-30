@@ -50,13 +50,14 @@
 
 <br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mevluttuna&hide_border=true&fire=FF5050&background=00000000&currStreakLabel=FF5050&stroke=FF5050&sideNums=404040&dates=CCCCCC&sideLabels=FF5050&ring=FF5050&currStreakNum=404040&border=DDDDDD)](https://git.io/streak-stats)
 
-<a href="" target="_blank"> <img src="https://www.adveyer.com/wp-content/uploads/2020/05/5083e0a2a7dcaae07c142e8b87036a27.gif" width="495" /> </a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevluttuna&theme=light)](https://git.io/streak-stats)
 ![mevluttuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevluttuna&show_icons=true&theme=gradient&count_private=true)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevluttuna&langs_count=8&layout=compact&count_private=true&card_width=445)](https://github.com/mevluttuna/github-readme-stats)
+
+<a href="" target="_blank"> <img src="https://www.adveyer.com/wp-content/uploads/2020/05/5083e0a2a7dcaae07c142e8b87036a27.gif" width="495" /> </a>
+
 
 
 
