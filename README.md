@@ -1,49 +1,56 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi! I'm M. Tuna!
 
-###
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## &nbsp; 🧐  &nbsp; More About Me:
 
-###
+- 🔭 &nbsp;I’m currently working on React Native Apps
+- 🌱 &nbsp;I’m currently learning never give up :)
+- 🖥 &nbsp;Most of my projects are available on [Github](https://github.com/mevluttuna?tab=repositories)
+- 💬 &nbsp;Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mevluttuna/)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br />
 
-###
+## &nbsp; 🔨  &nbsp; Languages and Tools:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud-functions.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/csharp.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/docket.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/filezilla.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/firebase.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/git.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/github.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/graphql.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/idea.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jetbrains.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jira.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/mongo.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/ngnix.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/node.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/postgresql.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/react-native.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/slack.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/sql.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/teams.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/todo.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/use-fork.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vm.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs-code-insides.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vscode.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="" height="64px"/> </a>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<br>
 
-###
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mevluttuna&hide_border=true&fire=FF5050&background=00000000&currStreakLabel=FF5050&stroke=FF5050&sideNums=404040&dates=CCCCCC&sideLabels=FF5050&ring=FF5050&currStreakNum=404040&border=DDDDDD)](https://git.io/streak-stats)
 
-<br clear="both">
+![mevluttuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevluttuna&show_icons=true&theme=gradient&count_private=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevluttuna&langs_count=8&layout=compact&count_private=true&card_width=445)](https://github.com/mevluttuna/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<a href="" target="_blank"> <img src="https://www.adveyer.com/wp-content/uploads/2020/05/5083e0a2a7dcaae07c142e8b87036a27.gif" width="495" /> </a>
