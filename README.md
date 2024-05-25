@@ -14,35 +14,35 @@
 
 ## &nbsp; 🔨  &nbsp; Languages and Tools:
 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud-functions.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/csharp.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/docket.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/filezilla.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/firebase.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/git.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/github.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/graphql.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/idea.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jetbrains.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jira.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/mongo.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/ngnix.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/node.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/postgresql.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/react-native.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/slack.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/sql.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/teams.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/todo.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/use-fork.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vm.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs-code-insides.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vscode.png" alt="" height="64px"/> 
- <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="" height="64px"/> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/bitbucket.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/cloud-functions.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/csharp.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/docket.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/filezilla.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/firebase.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/git.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/github.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/graphql.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/idea.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jetbrains.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jira.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/mongo.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/ngnix.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/node.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/postgresql.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/react-native.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/slack.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/sql.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/teams.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/todo.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/use-fork.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vm.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs-code-insides.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vscode.png" alt="" height="64px"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="" height="64px"/> </a>
 
 
 <br>
