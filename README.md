@@ -41,8 +41,8 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vm.png" alt="" height="64px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs-code-insides.png" alt="" height="64px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs.png" alt="" height="64px"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vscode.png" alt="" height="64px"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="" height="64px"/> </a>
+<img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vscode.png" alt="" height="64px"/>
+<img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="" height="64px"/>
 
 
 <br>
