@@ -14,7 +14,11 @@
 
 ## &nbsp; 🔨  &nbsp; Languages and Tools:
 
-JavaScript - TypeScript - NodeJS - React - React Native
+- JavaScript
+- TypeScript
+- NodeJS
+- React
+- React Native
 
 <br>
 
