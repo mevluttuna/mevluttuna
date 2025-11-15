@@ -14,20 +14,7 @@
 
 ## &nbsp; 🔨  &nbsp; Languages and Tools:
 
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="" height="64px"/></a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/csharp.png" alt="" height="64px"/></a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/firebase.png" alt="" height="64px"/></a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/graphql.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/idea.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/jetbrains.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/mongo.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/node.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/npm.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/react-native.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/sql.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vs.png" alt="" height="64px"/> </a>
-<a href="" target="#"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/vscode.png" alt="" height="64px"/> </a>
-
+JavaScript - TypeScript - NodeJS - React - React Native
 
 <br>
 
