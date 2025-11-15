@@ -14,7 +14,7 @@
 
 ## &nbsp; 🔨  &nbsp; Languages and Tools:
 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="" height="64px"/> </a>
+<img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/javascript.png" alt="" height="64px"/>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/csharp.png" alt="" height="64px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/firebase.png" alt="" height="64px"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/graphql.png" alt="" height="64px"/> </a>
